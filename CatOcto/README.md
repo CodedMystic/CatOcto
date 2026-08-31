@@ -1,3 +1,0 @@
-# CatOcto
-For learning purposes.
-😼
